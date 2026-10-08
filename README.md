@@ -1,0 +1,1 @@
+# PINN-ROM-Hydrodynamic-Journal-Bearing
